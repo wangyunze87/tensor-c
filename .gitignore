@@ -1,0 +1,12 @@
+# 编译产物
+*.o
+*.exe
+
+# 调试信息
+*.gdb
+*.dSYM/
+
+# 编辑器/系统临时文件
+.vscode/
+.idea/
+Thumbs.db
